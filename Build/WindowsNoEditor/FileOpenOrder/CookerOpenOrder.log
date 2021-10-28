@@ -1,0 +1,556 @@
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/FMOD/PrivateIntegrationData/BankLookup.uasset" 0
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Geometry/Meshes/CubeMaterial.uasset" 1
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Geometry/Meshes/1M_Cube.uasset" 2
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 3
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Geometry/Meshes/TemplateFloor.uasset" 4
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 5
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 6
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 7
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 8
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 9
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Textures/T_Male_N.uasset" 10
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 11
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 12
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 13
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 14
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 15
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 16
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 17
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 18
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 19
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 21
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 22
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 23
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 24
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Textures/T_Female_N.uasset" 25
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 26
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 27
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 28
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Basic_Wall.uasset" 29
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Pillar_50x500.uasset" 30
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_400x300.uasset" 31
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_400x400.uasset" 32
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 33
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 34
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Collapse01.uasset" 35
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Collapse02.uasset" 36
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Explosion01.uasset" 37
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Explosion02.uasset" 38
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Fire01.uasset" 39
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Fire_Sparks01.uasset" 40
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Light01.uasset" 41
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Light01_Cue.uasset" 42
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Light02.uasset" 43
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Light02_Cue.uasset" 44
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Smoke01.uasset" 45
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Starter_Birds01.uasset" 46
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Starter_Music01.uasset" 47
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Starter_Wind05.uasset" 48
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Starter_Wind06.uasset" 49
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Steam01.uasset" 50
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 51
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 52
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 54
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 55
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 56
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 57
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 58
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Burst_M.uasset" 59
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_Burst.uasset" 60
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/P_Explosion.uasset" 61
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Explosion_Cue.uasset" 62
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 63
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 64
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 65
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 66
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_MacroVariation.uasset" 67
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Brick_Clay_Old_autoscale.uasset" 68
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 69
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 70
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Bush_N.uasset" 71
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Bush_D.uasset" 72
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Bush.uasset" 73
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Bush.uasset" 74
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Chair_N.uasset" 75
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Chair_M.uasset" 76
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Chair.uasset" 77
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Couch.uasset" 78
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Glass.uasset" 79
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Door_N.uasset" 80
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Door_M.uasset" 81
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Door.uasset" 82
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Door.uasset" 83
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 84
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 85
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 86
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 87
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_RockMesh_N.uasset" 88
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_RockMesh_M.uasset" 89
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 90
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Rock.uasset" 91
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Rock.uasset" 92
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Shelf_N.uasset" 93
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Shelf_M.uasset" 94
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Shelf.uasset" 95
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Shelf.uasset" 96
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Basic_Floor.uasset" 97
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Stairs.uasset" 98
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Cone.uasset" 99
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 100
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Pipe.uasset" 101
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 102
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 103
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Plane.uasset" 104
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Torus.uasset" 105
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Trim.uasset" 106
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 107
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 108
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Tube.uasset" 109
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 110
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 111
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 112
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPerson/Meshes/RampMaterial.uasset" 113
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 114
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 115
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 116
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 117
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 118
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 119
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 120
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 121
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 122
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPersonRun.uasset" 123
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 124
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 125
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 126
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 127
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 128
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 129
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 130
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Cube.uasset" 131
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 132
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 133
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 134
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 135
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/MovingObstacle1_Blueprint.uasset" 136
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/MovingBush_Blueprint.uasset" 137
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 138
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 139
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.uasset" 140
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Maps/LevelMap_BuiltData.uasset" 141
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 142
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 143
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 144
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 145
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 146
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 147
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 148
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 149
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 150
+"../../../Engine/Content/BasicShapes/Cone.uasset" 151
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 152
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 153
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 154
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 155
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 156
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 157
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 159
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 160
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 161
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 162
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 163
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 164
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 165
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 166
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 167
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 168
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 169
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 170
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 171
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 172
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 173
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 174
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 175
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 176
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 177
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 178
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 179
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 180
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 181
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 182
+"../../../Engine/Content/EditorResources/S_Note.uasset" 183
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 184
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 185
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 186
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 187
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 188
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 189
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 190
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 191
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 195
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 196
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 200
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 203
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 204
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 205
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 206
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 207
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 208
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 209
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 210
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 211
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 212
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 213
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 217
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 218
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 221
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 225
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 226
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 227
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 228
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 229
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 230
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 232
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 233
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 234
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 235
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 236
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 237
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 240
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 241
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 242
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 243
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 244
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 245
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 246
+"../../../Engine/Content/EngineResources/Black.uasset" 247
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 248
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 249
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 250
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 251
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 252
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 253
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 254
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 255
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 256
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 257
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 258
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 259
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 260
+"../../../Engine/Content/EngineSounds/Master.uasset" 261
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 262
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 263
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 264
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 265
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 266
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 284
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 285
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 286
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 287
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 288
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 289
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 290
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 291
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 292
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 293
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 294
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 297
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 298
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 301
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 302
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 303
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 304
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 305
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 306
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 307
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 309
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 310
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 311
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 313
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 314
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 315
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 316
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 317
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 318
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 319
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 320
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 321
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 322
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 323
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 324
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 325
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 328
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 329
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 330
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 331
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 332
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 333
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 334
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 335
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 336
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 337
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 338
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 339
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 340
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 341
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 342
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 343
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 344
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 345
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 346
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 347
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 348
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 349
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 350
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 351
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_AssetPlatform.uasset" 352
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 353
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Maps/Advanced_Lighting.umap" 354
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_TableRound_N.uasset" 355
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_TableRound_M.uasset" 356
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_TableRound.uasset" 357
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_TableRound.uasset" 358
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Statue_N.uasset" 359
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Statue_M.uasset" 360
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Statue.uasset" 361
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 362
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Statue.uasset" 363
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Chair.uasset" 364
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 365
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 366
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Metal_Copper.uasset" 367
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 368
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 369
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 370
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 371
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 372
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 373
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 374
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 375
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 376
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 377
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 378
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 379
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 380
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 381
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Floor_400x400.uasset" 382
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Maps/Minimal_Default.umap" 383
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Sphere.uasset" 384
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 385
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Frame_N.uasset" 386
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Frame_M.uasset" 387
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Frame.uasset" 388
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_WindowFrame.uasset" 389
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_PillarFrame300.uasset" 390
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_PillarFrame.uasset" 391
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_GlassWindow.uasset" 392
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_DoorFrame.uasset" 393
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_CornerFrame.uasset" 394
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/MaterialSphere.uasset" 395
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 396
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 397
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 398
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 399
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 400
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 401
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 402
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 403
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Wood_Pine.uasset" 404
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 405
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 406
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Wood_Oak.uasset" 407
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 408
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 409
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 410
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 411
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 412
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 413
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Water_M.uasset" 414
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Water_N.uasset" 415
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Water_Ocean.uasset" 416
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Water_Lake.uasset" 417
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 418
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 419
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 420
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Tech_Panel.uasset" 421
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 422
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 423
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 424
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 425
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 426
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 427
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 428
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 429
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 430
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 431
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 432
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Rock_Slate.uasset" 433
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 434
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 435
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 436
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 437
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 438
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 439
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 440
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 441
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Metal_Steel.uasset" 442
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 443
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 444
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Metal_Rust.uasset" 445
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 446
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Metal_Gold.uasset" 447
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 448
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 449
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 450
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Ground_Moss.uasset" 451
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 452
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 453
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 454
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 455
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 456
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Ground_Grass.uasset" 457
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 458
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 459
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 460
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 461
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 462
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 463
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 464
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 465
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 466
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 467
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 468
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 469
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 470
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 471
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Gradinet_01.uasset" 472
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 473
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 474
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 475
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 476
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 477
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 478
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 479
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 480
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 481
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 482
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 483
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 484
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 485
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 486
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 487
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 488
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 489
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 490
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 491
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 492
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 493
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 494
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 495
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 496
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 497
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 498
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 499
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 500
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 501
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Lamp_N.uasset" 502
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Lamp_M.uasset" 503
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/Materials/M_Lamp.uasset" 504
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 505
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 506
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/P_Steam_Lit.uasset" 507
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Steam01_Cue.uasset" 508
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 509
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Spark_Core.uasset" 510
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_Spark.uasset" 511
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 512
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/P_Sparks.uasset" 513
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 514
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 515
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/P_Smoke.uasset" 516
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Smoke01_Cue.uasset" 517
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 518
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 519
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 520
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 521
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 522
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Particles/P_Fire.uasset" 523
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Fire01_Cue.uasset" 524
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 525
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 526
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 527
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 528
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_400x200.uasset" 529
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 530
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 531
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Audio/Collapse_Cue.uasset" 532
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Maps/StarterMap.umap" 533
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 534
+"../../../Engine/Content/BasicShapes/Plane.uasset" 535
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/TriggerBox_Blueprint.uasset" 536
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 537
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/TrapRope_Blueprint.uasset" 538
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 539
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Yellow.uasset" 540
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/SprintPotion_Blueprint.uasset" 541
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Rock_Blueprint.uasset" 542
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/MovingObstacle2_Blueprint.uasset" 543
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Red.uasset" 544
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/JumpPotion_Blueprint.uasset" 545
+"../../../Engine/Content/BasicShapes/Cube.uasset" 546
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/GoldBar_Blueprint.uasset" 547
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Ending_Blueprint.uasset" 548
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/DestructionTriggerbox.uasset" 549
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Checkbox_blueprint.uasset" 550
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 551
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/StarterContent/Architecture/Wall_500x500.uasset" 552
+"../../../../../../Users/franp/OneDrive/Documentos/Unreal Projects/practica1/Content/ThirdPersonBP/Maps/LevelMap.umap" 553
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 554
+"../../../Engine/Content/Maps/Entry.umap" 555
