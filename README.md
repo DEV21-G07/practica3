@@ -15,14 +15,20 @@ nog vragen:
 **Fri 29 Oct - feature: add initial menu, play and exit options**: Cuando el jugador abre el juego, ve un menu inicial con las opciones para jugar, configurar, o salir. En este commit solo implementé la opcion para jugar y salir.
 
 **Fri 29 Oct - feature: pause menu**: El menu de pausa es igual al menu inicial. Solo el boton de "jugar" cambiara a "seguir jugando" y habra un texto diciendo que el juego esta pausado.
-, 
+
 **Sun 31 Oct - feature: add start of configuration menu**: He empezado con el menu de configuracion, que en este commit solo tiene la opcion de cambiar la resolucion (hay 4 opciones).
 
 **Sun 31 Oct - feature: add end menu**: Cuando el jugador obtiene el oro, el juego se acaba y el jugador puede ver un menu que le da la opcion de salir, o jugar otra vez.
 
 **Wed 3 Nov - feature: add timer, start landscape**: Este es el empiezo del HUD, en donde el jugador puede ver cuanto tiempo le queda de una habilidad. Por eso, tuve que cambiar el codigo del jugador cuando toca una pocima. En la practica 1, lo hice con un delay. Pero ahora necesito algo que puede actualizar el tiempo que le queda al jugador. Por eso, uso un Timer de UE4, que cada x segundos va actualizando un percentaje, que se necesita para el progress bar. En este commit también empezé a jugar un poco con el landscape y los textures.
 
-**Thu 4 Nov - feature: automatic landscape**:
+**Thu 4 Nov - feature: automatic landscape**: Para darle un poco mas de realidad a las montanas y para no tener que hacerlo todo con la mano, hice que solo hay snow/grass en partes que no tienen demasiada inclinacion (como en el mundo real).
+
+**Fri Nov 5 - feature: realistic mountains**:
+
+**Fri Nov 5 - fix: adjust HUD code**:
+
+**Fri Nov 5 - package: add spruce forest**:
 
 ----
 
