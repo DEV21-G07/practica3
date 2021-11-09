@@ -24,11 +24,11 @@ nog vragen:
 
 **Thu 4 Nov - feature: automatic landscape**: Para darle un poco mas de realidad a las montanas y para no tener que hacerlo todo con la mano, hice que solo hay snow/grass en partes que no tienen demasiada inclinacion (como en el mundo real).
 
-**Fri Nov 5 - feature: realistic mountains**:
+**Fri Nov 5 - feature: realistic mountains**: Por el momento las montanas se ven un poco fluido, no como montanas deberian verse. Con la herramienta "erosion" pude hacer que se ve un poco mas realista.
 
-**Fri Nov 5 - fix: adjust HUD code**:
+**Fri Nov 5 - fix: adjust HUD code**: Hay dos "timers", uno para correr y uno para saltar. Aun tuve que implementar lo de correr, y ademas cambie la repeticion de 1 segundo a 0,x segundos para que el progress bar va bajandose sin saltos.
 
-**Fri Nov 5 - package: add spruce forest**:
+**Fri Nov 5 - package: add spruce forest**: Anadir el "spruce forest" usando git LFS para ficheros grandes.
 
 ----
 
