@@ -22,6 +22,16 @@ Developed with Unreal Engine 4
 
 **Fri Nov 5 - package: add spruce forest**: Anadir el "spruce forest" usando git LFS para ficheros grandes.
 
+**Nov 8 - feature: start foliage**: Empezar a poner los arboles por el tereno. Aqui empeze
+
+**Nov 9 - feature: add to landscape, add blocking volumes**:
+
+**Wed Nov 10 - fix: restructure files in folders**:
+
+**Wed Nov 10 - fix: restructure levelmap assets**:
+
+**Wed Nov 10: fix: make lighting dynamic, fix widget layouts**:
+----
 ----
 
 # Las pruebas
