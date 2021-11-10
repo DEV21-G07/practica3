@@ -2,31 +2,6 @@
 
 Developed with Unreal Engine 4
 
-More info in the Wiki
-
-----
-nog vragen: 
-pract 3:
-- hoe moet het menu eruit zien zoals de omgeving?  "Este prototipo completará su contenido con un menú inicial (con opciones Jugar, Configurar y
-Salir, y decorado con ese mismo entorno natural del juego)"
-- is hud goed hoe hij is (wss enkel timer tonen als hij potion heeft genomen)
-- wat is kwaliteit bij optie configuratie
-- moet code verbeterd worden uit practica 1?
-- probleem met lighting build
-
-vorige practica:
-- "Tampoco están bien ordenados los actores en el nivel (no hay carpetas para organizarnos) y no hay una carpeta específica para guardar tus recursos en el proyecto. Aunque hay comentarios, se podrían añadir más y más sistemáticos." -> moet het in folders worden georganiseerd of ook rechts boven, waar kan ik nog meer commentaar zetten? gewoon langere zinnen? 
-- "La organización del contenido y de los niveles es algo irregular. El uso de identificadores significativos para las variables y funciones, y los comentarios están bastante presentes."
-- vraag of hij toegang heeft tot github want sowieso wel "El profesor no tiene acceso pleno a la organización DEV21-GXX en GitHub. No se pueden ver los commits de todos los que pertenecen al grupo o no están equitativamente repartidos." en  "No hay repositorio o yo no tengo puesto en enlace."
-- "La documentación del diseño y desarrollo en GitHub brilla es escasa." wat betekent dit
-- zeg da je pract2 hebt moeten verwijderen
-
-todo:
-- personaliseer level met naam enz
-
-todo practica2:
-- organiseer beter 
-
 # Proceso de desarrollo
  
 **Fri 29 Oct - feature: add initial menu, play and exit options**: Cuando el jugador abre el juego, ve un menu inicial con las opciones para jugar, configurar, o salir. En este commit solo implementé la opcion para jugar y salir.
